@@ -1,5 +1,5 @@
 # Hi there, I'm Lamu Vidyardhi <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
-## I'm a Backend Developer
+## I'm a Frontend Developer
 - 🌱 I am currently focusing on React.
 - 📫 What is the best way to contact me? [Linkedin](www.linkedin.com/in/vidyardhi-lamu)
 - 😄 Pronouns: He/Him
